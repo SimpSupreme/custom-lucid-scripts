@@ -8,8 +8,8 @@ My collection of slightly less awfully coded scripts for the Lucid Roblox extern
 - Rewrites
   - Pressure
   - Doors
-- Scorched Earth (I even made a custom 3D box for it :3)
-- No Big Deal
+- Scorched Earth (maybe not, it's pretty good and obfuscated)
+- No Big Deal (I just need an acc with VC)
 - Absolvement
-- Twenty One
-- Regretevator
+- Twenty One (not sure how to do this one ngl)
+- Regretevator (maybe, maybe not, there's a lotta stuff and a lot of it is RNG to get and test)
