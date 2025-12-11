@@ -13,3 +13,4 @@ My collection of slightly less awfully coded scripts for the Lucid Roblox extern
 - Absolvement
 - Twenty One (not sure how to do this one ngl)
 - Regretevator (maybe, maybe not, there's a lotta stuff and a lot of it is RNG to get and test)
+- Friday Night Bloxxin (not sure how to do this either)
